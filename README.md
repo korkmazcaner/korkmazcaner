@@ -2,6 +2,16 @@
 
 I work eagerly and I am devoted to my responsibilities. I value team work and encourage a positive environment. I am open to feedback and always excited to learn new technologies to improve my skills.
 
+
+🔭 I’m working on frontend React development (JavaScript | React )
+
+🤝 I'm currently open for work. I'm open to collaborating on interesting projects and startups.
+
+🌍  I'm based in Istanbul/Turkey
+
+✉️  You can contact me at canerkorkmaz7@yandex.com
+
+
 ### Languages and Tools:
 
 

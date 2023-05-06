@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Caner Korkmaz
+
+I work eagerly and I am devoted to my responsibilities. I value team work and encourage a positive environment. I am open to feedback and always excited to learn new technologies to improve my skills.
 
 <!--
 **korkmazcaner/korkmazcaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
